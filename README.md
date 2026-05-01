@@ -1,4 +1,5 @@
 🩺 Validador de Registros Médicos
+
 Este proyecto es un motor de validación de datos clínicos desarrollado en Python. Permite procesar listas de registros médicos (diccionarios) y verificar que cumplan con estrictas reglas de negocio y formatos de datos antes de ser procesados por un sistema de salud.
 
 🚀 Funcionalidades
